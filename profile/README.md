@@ -19,10 +19,6 @@ Sanayicin; aracında arıza, bakım veya hizmet ihtiyacı olan müşterileri, bu
 3. Müşteri teklifleri karşılaştırır, dilediğini seçer.
 4. Ödeme platform güvencesiyle yapılır; iş tamamlanınca memnuniyet puanlanır.
 
-## Teknoloji
-
-Backend'de **Python (FastAPI)**, web'de **TypeScript (Next.js / React)**, mobilde **React Native (Expo)**, veri katmanında **PostgreSQL** ve **Redis**, dağıtımda **Docker** ve **Kubernetes** kullanıyoruz. Teslimat süreçlerimiz **GitHub Actions** ile otomatikleştirilmiştir.
-
 ## İletişim
 
 - Web: [sanayicin.com](https://sanayicin.com)
